@@ -20,5 +20,6 @@
     <entry key='database.password'></entry>
 
     <entry key='intellitrac.port'>6037</entry>
+    <entry key='topflytech-clone.port'>5134</entry>
 
 </properties>
